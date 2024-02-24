@@ -1,5 +1,5 @@
 # Mohammed Shabil 
-I'm a passionate MERN Developer, specializing in Full stack development. I love coding and enjoy building Scalable Websites. <br><br>🚀 **Quick Overview:**<br>- 🔭 I’m currently working on MERN Stack.<br>- 🌱 I’m currently learning ReactJS.<br>- 📫 How to reach me: mohammedshabil15@gmail.com
+I'm a passionate MERN Developer, specializing in Full stack development. I love coding and enjoy building Scalable Websites. <br><br>🚀 **Quick Overview:**<br>- 🔭 I’m currently working on MERN Stack.<br>- 🌱 I’m currently learning ReactJS.<br>- 📫 How to reach me: mohammedshabil15@gmail.com 
 
 
 ## 🌐 Socials:
