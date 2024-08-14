@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabil15&label=Profile%20views&color=0e75b6&style=flat" alt="shabil15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabil15" alt="shabil15" /></a> </p>
 
 - 🔭 I’m currently working on [fitcall](https://github.com/shabil15/backend-fitcall)
 
