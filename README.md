@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shabil T</h1> 
-<h3 align="center">Self-taught MERN Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Shabil T</h1>
+<h3 align="center">Full Stack Developer | MERN | Next.js | TypeScript | Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabil15&label=Profile%20views&color=0e75b6&style=flat" alt="shabil15" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabil15&label=Profile%20views&color=0e75b6&style=flat" alt="shabil15" />
+</p>
 
+---
 
-- 🔭 I’m currently working on [fitcall](https://github.com/shabil15/backend-fitcall)
+### 🚀 About Me
+- 💼 Currently working at **Rentesy** as a **Full Stack Developer**, building scalable solutions for property portfolio management.  
+- 🔭 Worked on features like **rent collection automation, maintenance management, tenant portals, real-time communication, and financial reporting**.  
+- 🌱 Expanding skills in **React Native, AWS cloud deployments, and scalable microservices**.  
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB**.  
+- 📝 I write insights and updates on [LinkedIn](https://www.linkedin.com/in/shabildev/).  
+- 📫 Reach me at: **mohammedshabil15@gmail.com**
 
-- 🌱 I’m currently learning **Next.js , React Native**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shabildev/](https://www.linkedin.com/in/shabildev/)
-
-- 💬 Ask me about **react, node.js , typescript,**
-
-- 📫 How to reach me **mohammedshabil15@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
